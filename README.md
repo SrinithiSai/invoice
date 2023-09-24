@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Invoicing Software</h1>
 
 ## 🎯 About
@@ -45,3 +46,6 @@ I will update and push the codes regularly. Hope it will be a greate journey<br/
 
 
 
+=======
+# Invoice-MERN
+>>>>>>> 301e78a9891c6c435eb589320f00032d2bacc6c9
