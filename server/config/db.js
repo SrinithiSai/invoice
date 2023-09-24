@@ -2,7 +2,7 @@ import mongoose from "mongoose";
 
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect("mongodb+srv://scsrinithi:12345@cluster0.rhmrtp1.mongodb.net/?retryWrites=true&w=majority", {
+    const conn = await mongoose.connect(//Enter your own MOngo server path here , {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
