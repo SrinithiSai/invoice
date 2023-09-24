@@ -21,7 +21,7 @@ This is a project based on MERN Stack.I began this project as way to learn about
 - [Mongoose](https://mongoosejs.com/)
 
 ## 📸 Screenshots
-
+shall link them soon
 **Sign In**
 
 
